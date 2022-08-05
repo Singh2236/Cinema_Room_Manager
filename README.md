@@ -1,7 +1,7 @@
 # Cinema_Room_Manager
 
 #### Console Output 
-````cmd
+````console
 C:\Users\navka\.gradle\jdks\jdk-17.0.1+12\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2022.1.3\lib\idea_rt.jar=58322:C:\Program Files\JetBrains\IntelliJ IDEA 2022.1.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\navka\IdeaProjects\Cinema_Room_Manager\out\production\Cinema_Room_Manager Java.Cinema
 Enter the number of rows:
 11
